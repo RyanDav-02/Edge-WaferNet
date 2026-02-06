@@ -1,0 +1,10 @@
+numpy>=1.26.0
+pandas>=2.0.0
+opencv-python
+tensorflow>=2.16.1
+scipy
+scikit-learn
+matplotlib
+seaborn
+tf2onnx
+onnx
